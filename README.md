@@ -1,11 +1,18 @@
 theoritical computer science ug researcher
 
 contact khatoniarnayanmoni@gmail.com
-<h2 align="left">I am Nayanmoni a theoritical cs enthusiast and resercher (ug)</h2>
+<h2 align="left">I am Nayanmoni; a theoretical cs enthusiast and an ug researcher.</h2>
 
 ###
 
-<img align="right" height="150" src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-55-swag-face-and-wind.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NayanmoniKhatoniar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NayanmoniKhatoniar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://tenor.com/rv4ARHFlTtF.gif"  />
 
 ###
 
@@ -18,11 +25,13 @@ contact khatoniarnayanmoni@gmail.com
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
 </div>
 
 ###
@@ -41,3 +50,12 @@ contact khatoniarnayanmoni@gmail.com
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NayanmoniKhatoniar/NayanmoniKhatoniar/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
