@@ -12,7 +12,7 @@ contact khatoniarnayanmoni@gmail.com
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/rv4ARHFlTtF.gif"  />
+<img align="right" height="150" src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-55-swag-face-and-wind.gif"  />
 
 ###
 
@@ -56,6 +56,3 @@ contact khatoniarnayanmoni@gmail.com
 <img src="https://raw.githubusercontent.com/NayanmoniKhatoniar/NayanmoniKhatoniar/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
