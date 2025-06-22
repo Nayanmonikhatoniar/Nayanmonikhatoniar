@@ -1,4 +1,4 @@
-theoritical computer science ug researcher
+theoritical computer science enthusiast
 
 contact khatoniarnayanmoni@gmail.com
 <h2 align="left">I am Nayanmoni; a theoretical cs enthusiast and an ug researcher.</h2>
