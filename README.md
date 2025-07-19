@@ -1,4 +1,5 @@
-theoritical computer science enthusiast
+# theoritical computer science enthusiast
+## anime enthusiast
 
 contact khatoniarnayanmoni@gmail.com
 <h2 align="left">I am Nayanmoni; a theoretical cs enthusiast.</h2>
